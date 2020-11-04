@@ -14,7 +14,7 @@ Principalmente para dar un vistazo del funcionamiento en despliegue puede ir a l
 
 se recomienda clonar el repositorio a su computadora, como opción puede realizarlo por medio del siguiente comando:
 
-``` git clone https://github.com/IJuanchoG/AREP_Taller_02_sparkWeb.git```
+``` git clone https://github.com/IJuanchoG/AREP_LAB_SCALABILITY.git```
 
 La construcción del proyecto se ha realizado por medio de **MAVEN**, es por este motivo que puede ser necesario tener la herramienta en su dispositivo. 
 
